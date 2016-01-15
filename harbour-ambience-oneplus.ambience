@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "harbour-ambience-oneplus",
+    "displayName"               : "Never Settle",
+    "ringerToneFile"            : { "file": "", "enabled": 1 },
+    "messageToneFile"           : { "file": "", "enabled": 1 },
+    "mailToneFile"              : { "file": "", "enabled": 1 },
+    "internetCallToneFile"      : { "file": "", "enabled": 1 },
+    "chatToneFile"              : { "file": "", "enabled": 1 },
+    "calendarToneFile"          : { "file": "", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "", "enabled": 1 },
+    "wallpaper"                 : "harbour-ambience-oneplus.png",
+    "highlightColor"            : "#FF283A",
+    "secondaryHighlightColor"   : "#FF283A99",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : -1,
+    "favorite"			: false
+}
